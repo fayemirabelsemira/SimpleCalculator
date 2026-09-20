@@ -1,3 +1,4 @@
+````markdown
 # Simple Calculator (CLI)
 
 ### Objective
@@ -28,8 +29,11 @@ The calculator can perform:
 
 ```bash
 python3 calculator.py
+````
 
-Example
+### Example
+
+```text
 Simple Calculator
 1. Add  2. Subtract  3. Multiply  4. Divide
 
@@ -37,20 +41,18 @@ Enter choice (1/2/3/4) or 'q' to quit: 1
 Enter first number: 10
 Enter second number: 5
 Result: 15.0
-Technologies Used
-Python
-Command Line Interface (CLI)
-Project Structure
+```
+
+### Technologies Used
+
+* Python
+* Command Line Interface (CLI)
+
+### Project Structure
+
+```text
 SimpleCalculator/
 ├── calculator.py
 ├── README.md
 └── .gitignore
-
-Press:
-
-**`Command + S`**
-
-Then run:
-
-```bash
-git status
+```
