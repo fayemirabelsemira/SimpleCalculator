@@ -1,7 +1,5 @@
 # Simple Calculator (CLI)
 
-## Task 1: Simple Calculator (CLI)
-
 ### Objective
 
 Build a command-line calculator using Python.
@@ -47,8 +45,6 @@ SimpleCalculator/
 ├── calculator.py
 ├── README.md
 └── .gitignore
-
-### Step 3 — Save the file
 
 Press:
 
